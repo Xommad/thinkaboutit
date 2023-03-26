@@ -17,7 +17,7 @@
         top: 40%;
         left: 7%;
         width: 80%;
-        height: 430px;
+        height: fit-content;
     }
 
     #civilization-six-jpeg {
@@ -26,12 +26,13 @@
 
     #current-game-description {
         width: 100%;
+        font-size: smaller;
     }
 
     #recent-posts-div {
-        top: 101%;
+        top: 89%;
         left: 7%;
         width: 80%;
-        height: 15%;
+        height: fit-content;
     }
 }
