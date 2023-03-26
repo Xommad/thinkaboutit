@@ -1,0 +1,37 @@
+@media only screen and (max-width: 400px) {
+    #gaming-journey-intro-div {
+        top: 24%;
+        height: 150px;
+    }
+
+    #gaming-journey-intro-h3 {
+        font-size: 20px;
+    }
+
+    #gaming-journey-intro-description {
+        font-size: smaller;
+        top: 30%;
+    }
+
+    #current-game-div {
+        top: 38%;
+        left: 7%;
+        width: 80%;
+        height: 430px;
+    }
+
+    #civilization-six-jpeg {
+        display: none;
+    }
+
+    #current-game-description {
+        width: 100%;
+    }
+
+    #recent-posts-div {
+        top: 97%;
+        left: 7%;
+        width: 80%;
+        height: 15%;
+    }
+}

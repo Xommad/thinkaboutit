@@ -5,6 +5,7 @@
 
 body {
     margin: 0;
+    height: 960px;
 }
 
 #gaming-journey-navibar {
@@ -15,6 +16,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 1;
 }
 
 #gaming-journey-home-button {
@@ -39,7 +41,7 @@ body {
     padding: 10px;
 }
 
-#gaming-journey-six-intro-h3 {
+#gaming-journey-intro-h3 {
     color: black;
     font-size: 25px;
     position: absolute;
@@ -75,7 +77,7 @@ body {
 #civilization-six-jpeg {
     width: 200px;
     position: absolute;
-    right: 10%;
+    right: 5%;
 } 
 
 #civilization-six-jpeg:hover {
