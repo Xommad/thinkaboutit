@@ -5,7 +5,7 @@
 
 body {
     margin: 0;
-    height: 960px;
+    height: fit-content;
 }
 
 #gaming-journey-navibar {
